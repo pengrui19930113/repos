@@ -5,3 +5,4 @@ https://github.com/forezp/SpringCloudLearning
 add message in feature1.
 add message in feature2.
 reslove problem
+push dev info in master
